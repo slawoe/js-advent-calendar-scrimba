@@ -6,7 +6,7 @@
 - [Tag 04](https://scrimba.com/learn/adventcalendar/note-at-0-00-cofac4706bebd69816ca3ef78)
 - [Tag 05](https://scrimba.com/scrim/co2a04de0970667c996b32bb9)
 - [Tag 06](https://scrimba.com/learn/adventcalendar/note-at-0-00-coe254c2a87e724d86595c054)
-- [Tag 07]()
+- [Tag 07](https://scrimba.com/learn/adventcalendar/note-at-0-00-co1d64a99add015c97822c675)
 - [Tag 08]()
 - [Tag 09]()
 - [Tag 10]()
