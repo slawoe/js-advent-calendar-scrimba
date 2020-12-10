@@ -9,7 +9,7 @@
 - [Tag 07](https://scrimba.com/learn/adventcalendar/note-at-0-00-co1d64a99add015c97822c675)
 - [Tag 08](https://scrimba.com/scrim/co6004c13ba1664a941164889)
 - [Tag 09](https://scrimba.com/scrim/co574453896b3abde3d0b9f11)
-- [Tag 10]()
+- [Tag 10](https://scrimba.com/scrim/coe1e4cf2b978349b70c2e7bc)
 - [Tag 11]()
 - [Tag 12]()
 - [Tag 13]()
