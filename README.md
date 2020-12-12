@@ -1,5 +1,7 @@
 ## Links zu den Rästeln
 
+INFO: Die Aufgabenstellungen sind jeweils in den Videos zu finden.
+
 - [Tag 01](https://scrimba.com/learn/adventcalendar/note-at-0-00-coa974406ba1929da404a7f11)
 - [Tag 02](https://scrimba.com/learn/adventcalendar/note-at-0-00-co75d45b8ad9b762aa7933938)
 - [Tag 03](https://scrimba.com/scrim/coe9942a891c0c82c47dacb2f)
@@ -11,7 +13,7 @@
 - [Tag 09](https://scrimba.com/scrim/co574453896b3abde3d0b9f11)
 - [Tag 10](https://scrimba.com/scrim/coe1e4cf2b978349b70c2e7bc)
 - [Tag 11](https://scrimba.com/scrim/coa1e48978bdb94f76f6a4e83)
-- [Tag 12]()
+- [Tag 12](https://scrimba.com/scrim/co5f64124a94a9edb72a610f7)
 - [Tag 13]()
 - [Tag 14]()
 - [Tag 15]()
