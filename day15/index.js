@@ -22,7 +22,6 @@ prev.addEventListener("click", () => {
   if (pixels >= 0) {
     return;
   } else {
-    prev.style.opacity = "1";
     pixels += gallerySizeInPx;
     gallery.style.transform = `translateX(${pixels}px)`;
     gallery.style.transition = "transform .7s ease-in-out";
