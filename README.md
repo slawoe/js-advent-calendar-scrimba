@@ -18,7 +18,7 @@ INFO: Die Aufgabenstellungen sind jeweils in den Videos zu finden.
 - [Tag 14](https://scrimba.com/scrim/cof564fcb80a7a87d5d8269a5)
 - [Tag 15](https://scrimba.com/scrim/coa6b498cb7efe44981711bc9)
 - [Tag 16](https://scrimba.com/scrim/co148499d97e3cb7a48f99d68)
-- [Tag 17]()
+- [Tag 17](https://scrimba.com/scrim/co9f24df8b5a5c68896be79a0)
 - [Tag 18]()
 - [Tag 19]()
 - [Tag 20]()
