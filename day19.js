@@ -4,14 +4,12 @@ function alphabetSubsequence(str) {
   for (let i = 0; i < letterArray.length - 1; i++) {
     if (letterArray[i].charCodeAt() < letterArray[i + 1].charCodeAt()) {
       result++;
-    } else {
-      result--;
     }
   }
   if (result === letterArray.length - 1) {
     return true;
   } else if (result > letterArray.length - 1) {
-    return console.log("This is impossible buddy");
+    return console.log("This is impossible, buddy");
   } else {
     return false;
   }
