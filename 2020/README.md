@@ -26,5 +26,5 @@ INFO: Die Aufgabenstellungen sind jeweils in den Videos zu finden.
 - [Tag 20](https://scrimba.com/scrim/coa4a4a3783afbda63a43370b)
 - [Tag 21](https://scrimba.com/scrim/coa9848aa96aae5e9706142cb)
 - [Tag 22](https://scrimba.com/scrim/cof0044a892a696e2504c7664)
-- [Tag 23]()
+- [Tag 23](https://scrimba.com/scrim/co1ec4ca1ae7a90f193a34227)
 - [Tag 24]()
