@@ -27,4 +27,6 @@ INFO: Die Aufgabenstellungen sind jeweils in den Videos zu finden.
 - [Tag 21](https://scrimba.com/scrim/coa9848aa96aae5e9706142cb)
 - [Tag 22](https://scrimba.com/scrim/cof0044a892a696e2504c7664)
 - [Tag 23](https://scrimba.com/scrim/co1ec4ca1ae7a90f193a34227)
-- [Tag 24]()
+- [Tag 24](https://scrimba.com/scrim/co50d46d184d01dac040c6bbc)
+
+### DONE IT. MERRY X-MAS!!!
